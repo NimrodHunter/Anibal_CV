@@ -7,7 +7,7 @@
 ## Preview
 You can see [PDF](https://github.com/NimrodHunter/Anibal_CV/blob/master/AC_Resume.pdf)
 
-![alt tag](https://github.com/NimrodHunter/Anibal_CV/blob/master/AC_Resume.pdf)
+![alt tag](https://github.com/NimrodHunter/Anibal_CV/blob/master/AC_Resume.png)
 
 ## Cover Letter
 You can see [PDF](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter.pdf)
